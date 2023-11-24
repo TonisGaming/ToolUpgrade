@@ -16,7 +16,7 @@ If you have any ideas for what you might want to see in the future do leave your
 
 ## Changelog
 
-**V1.0**
+**V1.0:**
 
 * Contains all of the original blueprints from the original mod
 * Added crafting icons to all of the blueprints
