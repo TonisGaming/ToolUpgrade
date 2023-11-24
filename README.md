@@ -3,7 +3,7 @@ Tool Upgrade is a continuation of TheDevv's mod of the same name, that adds mult
 
 * Make tool variants using scrap and materials from across Great Bear
 * Break down cans, bows and arrows to get back some raw materials
-* Create flour from acorns (I'm not crazy when I say that Hinterland said they're gonna do this themselves right?) and cooking oil from burning raw fat (Only with [CandeLight](https://github.com/DigitalzombieTLD/Candlelight/releases))
+* Create flour from acorns (I'm not crazy when I say that Hinterland said they're gonna do this themselves right?) and cooking oil from burning raw fat (Only with [CandleLight](https://github.com/DigitalzombieTLD/Candlelight/releases))
 * and much more (not that much more currently)
 
 If you have any ideas for what you might want to see in the future do leave your suggestion and I'll do all I can within my skills, and if there are any issues just let me know and I'll do my best at fixing it
