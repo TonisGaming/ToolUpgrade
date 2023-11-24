@@ -26,5 +26,7 @@ If you have any ideas for what you might want to see in the future do leave your
 ## Credits
 
 TheDevv for making the original mod
+
 Jods for making [Modder's Tool Box](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases) 
+
 DigitalZombie for making [CandleLight](https://github.com/DigitalzombieTLD/Candlelight/), even if I only use 1 item from it
