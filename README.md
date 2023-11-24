@@ -17,10 +17,11 @@ If you have any ideas for what you might want to see in the future do leave your
 ## Changelog
 
 **V1.0**
-*Contains all of the original blueprints from the original mod
-*Added crafting icons to all of the blueprints
-*Added the Improvised Handle to improve Woodwright's Bow blueprint
-*Overall some slight changes here and there to all of the blueprints
+
+* Contains all of the original blueprints from the original mod
+* Added crafting icons to all of the blueprints
+* Added the Improvised Handle to improve Woodwright's Bow blueprint
+* Overall some slight changes here and there to all of the blueprints
 
 ## Credits
 
