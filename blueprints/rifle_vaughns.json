@@ -1,0 +1,17 @@
+{
+    "Name": "Rifle_Vaughns",
+    "RequiredGear": [{"Item":"GEAR_GunParts","Count":1},{"Item":"GEAR_Rifle","Count":1},{"Item":"GEAR_RecycledPlastic","Count":3}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_TapeRoll",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rifle_Vaughns",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

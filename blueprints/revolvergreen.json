@@ -1,0 +1,17 @@
+{
+    "Name": "RevolverGreen",
+    "RequiredGear": [{"Item":"GEAR_GunParts","Count":3},{"Item":"GEAR_Revolver","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RevolverGreen",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

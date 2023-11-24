@@ -1,0 +1,17 @@
+{
+    "Name": "kerosenelamp_spelunkers",
+    "RequiredGear": [{"Item":"GEAR_Kerosenelampb","Count":1},{"Item":"GEAR_ScrapMetal","Count":7},{"Item":"GEAR_RecycledGlass","Count":1},{"Item":"GEAR_NutsNBolts","Count":2}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_kerosenelamp_spelunkers",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

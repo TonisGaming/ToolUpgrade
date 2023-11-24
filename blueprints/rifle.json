@@ -1,0 +1,17 @@
+{
+    "Name": "Rifle",
+    "RequiredGear": [{"Item":"GEAR_ScrapMetal","Count":10},{"Item":"GEAR_Softwood","Count":2},{"Item":"GEAR_GunParts","Count":2}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rifle",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

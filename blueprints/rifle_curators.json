@@ -1,0 +1,17 @@
+{
+    "Name": "Rifle_Curators",
+    "RequiredGear": [{"Item":"GEAR_GunParts","Count":3},{"Item":"GEAR_Rifle","Count":1},{"Item":"GEAR_Softwood","Count":5}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rifle_curators",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

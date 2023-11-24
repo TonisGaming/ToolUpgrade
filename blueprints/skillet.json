@@ -1,0 +1,17 @@
+{
+    "Name": "RifleCleaningKit",
+    "RequiredGear": [{"Item":"GEAR_ScrapMetal","Count":5}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Skillet",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

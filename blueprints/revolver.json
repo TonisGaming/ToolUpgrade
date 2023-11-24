@@ -1,0 +1,17 @@
+{
+    "Name": "Revolver",
+    "RequiredGear": [{"Item":"GEAR_ScrapMetal","Count":10},{"Item":"GEAR_Softwood","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Revolver",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_bowrmanufacturedecycle",
+    "RequiredGear":[{"Item":"GEAR_Bow_Manufactured","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Stick",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 20,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

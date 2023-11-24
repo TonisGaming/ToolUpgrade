@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_bowwoodwrighthandle",
+    "RequiredGear":[{"Item":"GEAR_ScrapMetal","Count":3},{"Item":"GEAR_StringBundle","Count":1},{"Item":"GEAR_Cloth","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow_WoodwrightHandle",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

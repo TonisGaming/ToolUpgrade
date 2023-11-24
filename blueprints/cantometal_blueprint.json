@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_cantometal",
+	"RequiredGear":[{"Item":"GEAR_RecycledCan","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ScrapMetal",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 2,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

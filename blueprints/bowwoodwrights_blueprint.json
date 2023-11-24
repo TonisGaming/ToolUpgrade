@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_bowwoodwrights",
+    "RequiredGear":[{"Item":"GEAR_MapleSaplingDried","Count":2},{"Item":"GEAR_StringDurable","Count":1},{"Item":"GEAR_Bow_WoodwrightHandle","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow_Woodwrights",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

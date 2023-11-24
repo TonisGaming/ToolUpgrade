@@ -1,0 +1,37 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_BowWoodwrightHandle",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_BowWoodwrightHandleDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.35,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvGenericTiny",
+                                "PutBackAudio" : "Play_SndInvGenericTiny",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingMetal",
+                                "Minutes" : 10,
+                                "YieldCounts" : [1, 2],
+                                "YieldNames" : ["GEAR_StringBundle", "GEAR_ScrapMetal"],
+                                "RequiredToolNames" : []
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_PNCSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_PNCMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }							
+}

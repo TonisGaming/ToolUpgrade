@@ -1,0 +1,17 @@
+{
+    "Name": "RevolverStubNosed",
+    "RequiredGear": [{"Item":"GEAR_GunParts","Count":1},{"Item":"GEAR_Revolver","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hacksaw",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RevolverStubNosed",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

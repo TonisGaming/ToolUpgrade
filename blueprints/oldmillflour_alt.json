@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_oldmillflour_alt",
+    "RequiredGear":[{"Item":"GEAR_AcornCookedBig","Count":1}, {"Item":"GEAR_AcornCooked","Count":2}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Flour",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

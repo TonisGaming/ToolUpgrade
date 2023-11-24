@@ -1,0 +1,17 @@
+{
+    "Name": "rifleammocasing",
+    "RequiredGear": [{"Item":"GEAR_ScrapMetal","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RifleAmmoCasing",
+    "CraftedResultCount": 5,
+    "DurationMinutes": 20,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

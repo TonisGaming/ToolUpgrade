@@ -1,0 +1,17 @@
+{
+    "Name": "Rifle_Barbs",
+    "RequiredGear": [{"Item":"GEAR_GunParts","Count":5},{"Item":"GEAR_Rifle","Count":1},{"Item":"GEAR_Hardwood","Count":3}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rifle_Barbs",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "Gunsmithing"
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_bowmanufactured",
+    "RequiredGear":[{"Item":"GEAR_MapleSaplingDried","Count":1},{"Item":"GEAR_StringBundle","Count":2},{"Item":"GEAR_RecycledPlastic","Count":2}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_TapeRoll"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow_Manufactured",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

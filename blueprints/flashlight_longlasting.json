@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_flashlightlonglasting",
+	"RequiredGear":[{"Item":"GEAR_Flashlight","Count":1},{"Item":"GEAR_Battery9V","Count":3},{"Item":"GEAR_ScrapMetal","Count":6},{"Item":"GEAR_ElectronicParts"	,"Count":2}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_flashlight_longlasting",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

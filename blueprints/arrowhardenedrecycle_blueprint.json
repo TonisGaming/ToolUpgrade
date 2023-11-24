@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_arrowhardenedrecycle",
+	"RequiredGear":[{"Item":"GEAR_Arrowhardened","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Crowfeather",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 2,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
