@@ -23,6 +23,12 @@ If you have any ideas for what you might want to see in the future do leave your
 * Added the Improvised Handle to improve Woodwright's Bow blueprint
 * Overall some slight changes here and there to all of the blueprints
 
+**V1.1**
+
+* Added the entire miners set (Jacket, pants, boots, helmet)
+* Added a blueprint for the Insulated Flask
+* Added an alternate Travois blueprint (In a perfect world, this would be a new, Tarp Travois)
+
 ## Credits
 
 TheDevv for making the original mod
