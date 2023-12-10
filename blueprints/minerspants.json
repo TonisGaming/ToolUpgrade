@@ -1,0 +1,26 @@
+{
+    "Name": "blueprint_minerspants",
+    "RequiredGear": [
+    {
+      "Item": "GEAR_TarpSheet",
+      "Count": 1
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 3
+    }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": [ "GEAR_HookAndLine" ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_MinersPants",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

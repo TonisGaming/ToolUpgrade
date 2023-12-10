@@ -1,0 +1,30 @@
+{
+    "Name": "blueprint_minersboots",
+    "RequiredGear": [
+    {
+      "Item": "GEAR_RecycledPlastic",
+      "Count": 1
+    },
+    {
+      "Item": "GEAR_LeatherDried",
+      "Count": 3
+    },
+    {
+      "Item": "GEAR_StringBundle",
+      "Count": 1
+    }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": [ "GEAR_HookAndLine" ],
+    "RequiredCraftingLocation": "WorkBench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_MinersBoots",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 360,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

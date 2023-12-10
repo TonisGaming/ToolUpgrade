@@ -1,0 +1,29 @@
+{
+    "Name": "blueprint_hardhat",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_RecycledPlastic",
+      "Count": 3
+
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 2
+
+    }
+
+  ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_MinersHelmet",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 150,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,34 @@
+{
+    "Name": "blueprint_travoisalternate",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapMetal",
+      "Count": 6
+    },
+    {
+      "Item": "GEAR_TarpSheet",
+      "Count": 4
+    },
+    {
+      "Item": "GEAR_StringDurable",
+      "Count": 2
+    },
+    {
+      "Item": "GEAR_TapeRoll",
+      "Count": 1
+    }
+  ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Travois",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 480,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

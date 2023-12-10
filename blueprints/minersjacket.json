@@ -1,0 +1,30 @@
+{
+    "Name": "blueprint_minersjacket",
+    "RequiredGear": [
+    {
+      "Item": "GEAR_TarpSheet",
+      "Count": 1
+    },
+    {
+      "Item": "GEAR_LeatherDried",
+      "Count": 2
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 5
+    }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": [ "GEAR_HookAndLine" ],
+    "RequiredCraftingLocation": "WorkBench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_MinersJacket",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

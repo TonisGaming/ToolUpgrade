@@ -1,0 +1,17 @@
+{
+    "Name": "blueprint_cookoil",
+    "RequiredGear":[{"Item":"GEAR_FatRaw","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Fire",
+    "RequiresLitFire": true,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CookingOil",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
