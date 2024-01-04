@@ -1,10 +1,12 @@
 {
 	"GAMEPLAY_BowWoodwrightHandle" : {
 		"English" : "Improvised Handle",
-		"Turkish" : "Doğaçlama Sap"
+		"Turkish" : "Doğaçlama Sap",
+		"Italian": "Manico Improvvisato"
 	},
 	"GAMEPLAY_BowWoodwrightHandleDescription" : {
 		"English" : "A piece of metal wrapped in cloth. Could be useful on a tool or weapon.",
-		"Turkish" : "Kumaşla sarılmış bir metal parçası. Bir alet veya silah üzerinde kullanışlı olabilir."
+		"Turkish" : "Kumaşla sarılmış bir metal parçası. Bir alet veya silah üzerinde kullanışlı olabilir.",
+		"Italian": "Un pezzo di metallo avvolto in stoffa. Può essere utile su un attrezzo o arma."
 	}
 }
